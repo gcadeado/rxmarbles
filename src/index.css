@@ -20,7 +20,3 @@ a.link:hover::after {
   right: 10px;
   content: '❯';
 }
-
-a.github-fork-ribbon:before {
-  background-color: #AAA;
-}
